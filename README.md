@@ -3,53 +3,15 @@ This project evaluates the economic impact of recurrent flooding in Lodi, New Je
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Paper</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>[Assessing Economic Impact of Flooding in Lodi, NJ (Paper)](https://docs.google.com/document/d/1bXy9mlvtMvpCCLWGbdVJc_rUofjPmnbp3kYyPhTesbw/edit?usp=sharing)</b> 
 
-<h2>Environments Used </h2>
+<h2> Presentation </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>[Assessing Economic Impact of Flooding in Lodi, NJ (Slides)](https://docs.google.com/presentation/d/1MAV-2lbqZ2YATibR9okDVTS-g_jrq5X8uFV38nTuZW0/edit?usp=sharing)</b>
 
-<h2>Program walk-through:</h2>
+<h2>Excel </h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
-
+- <b>[Cost calculations](https://docs.google.com/spreadsheets/d/1hsg_o4XD1K8Wryk4KN3FJoGBKK-IOTESx8-AtxYUdWY/edit?usp=sharing)</b>
+- <b>[Survay Data](https://docs.google.com/spreadsheets/d/1Ry0JlrJwZzfLHGjwyr0d_mVcgXK8ALT41-NceoIt9_w/edit?usp=sharing)</b>
